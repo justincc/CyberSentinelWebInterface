@@ -1,7 +1,13 @@
-#CyberSentinelWebInterface#
+# EventRecorderWebInterface #
 
-Example web interface to show grid actitivy as recorded by EventRecordingModule
+Very basic Example webpage to show grid actitivy as recorded by the
+EventRecordingModule [EVENT RECORDER].
 
-#Credits#
-* Justin Clark-Casey (@justincc, http://justincc.org)
+# References #
+[EVENT RECORDER] - https://github.com/justincc/EventRecordingModule
+
+# Credits #
+* Justin Clark-Casey (@justincc, http://justincc.org) 
 * Created in collaboration with AFRL Discovery Lab and Dr.Rob Williams, research director.
+
+vim: ts=4:sw=4:et:tw=120
