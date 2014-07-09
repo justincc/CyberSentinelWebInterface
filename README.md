@@ -1,7 +1,7 @@
 # EventRecorderWebInterface #
 
 Very basic Example webpage to show grid actitivy as recorded by the
-EventRecordingModule [EVENT RECORDER].
+OpenSimulator EventRecordingModule [EVENT RECORDER].
 
 # References #
 [EVENT RECORDER] - https://github.com/justincc/EventRecordingModule
