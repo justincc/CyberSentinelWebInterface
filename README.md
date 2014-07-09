@@ -1,6 +1,6 @@
 # EventRecorderWebInterface #
 
-Very basic Example webpage to show grid actitivy as recorded by the
+Very basic example webpage to show grid activity as recorded by the
 OpenSimulator EventRecordingModule [EVENT RECORDER].
 
 This assumes that you are using the MySQL recorder.
