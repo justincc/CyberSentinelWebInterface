@@ -3,6 +3,8 @@
 Very basic Example webpage to show grid actitivy as recorded by the
 OpenSimulator EventRecordingModule [EVENT RECORDER].
 
+This assumes that you are using the MySQL recorder.
+
 # References #
 [EVENT RECORDER] - https://github.com/justincc/EventRecordingModule
 
